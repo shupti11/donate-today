@@ -82,12 +82,12 @@ section {
     padding: 50px;
 }
 .food {
-    background-color: cadetblue;
+    background-color: rgb(77, 131, 133);
     padding: 50px;
 }
 
 .education {
-    background-color: cornflowerblue;
+    background-color: rgb(91, 131, 206);
     padding: 50px;
 }
 
